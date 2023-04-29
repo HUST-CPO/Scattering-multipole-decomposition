@@ -10,6 +10,7 @@ Two types of approaches for numerical projection are introduced, each suitable f
 ### Surface integration method
 
 ### Volume integration method
+build the mesh. run the COMSOL simulation. run main_numerical.m. run plot
 
 ## Citing
 If you find MDS useful for your research, we would appreciate you citing the following paper:
