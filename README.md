@@ -14,7 +14,7 @@ An example of the volume integration method is in `./examples/benchmark_silicon_
 1. Run the Comsol file `silicon_sphere.mph` and store each step of the parameter sweep in `./step`
 2. Run the script `main_volume.m`.
 3. Run the script `main_mie.m`.
-4. Run the script `numerical_and_mie_plot.m` to visualize the results
+4. Run the script `numerical_and_mie_plot.m` to visualize the results. 
 
 ## Citing
 If you find MDS useful for your research, we would appreciate you citing the following paper:
