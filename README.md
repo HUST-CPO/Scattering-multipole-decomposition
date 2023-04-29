@@ -22,4 +22,4 @@ Examples of the surface/volume integration method are in `./examples`. You can f
 If you find MDS useful for your research, we would appreciate you citing the following paper:
 
 ## Acknowledgements
-
+The Matlab implementation of Lebedev and Gaussian quadrature is provided by Rob Parrish (Georgia Tech) and John Burkardt (Florida State University), respectively. We appreciate them for the useful numerical tools. 
