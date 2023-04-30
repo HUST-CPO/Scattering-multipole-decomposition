@@ -20,7 +20,7 @@ Two types of approaches for numerical projection are introduced, each suitable f
 `coff.m`: Summation for quadrature. 
 
 ### Scripts for Mie theory
-`mie_scatter.m`: Compute the multipole coefficients using Mie theory for spherical scatterer. \
+`mie_scatter.m`: Compute the multipole coefficients using Mie theory for spherical scatterers. \
 `mie_cross_section.m`: Compute the normalized scattering cross-section based on multipole coefficients. 
 
 ### Run examples
