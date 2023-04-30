@@ -14,7 +14,7 @@ Two types of approaches for numerical projection are introduced, each suitable f
 `quad_point52tetra.m`: Get the Gaussian quadrature points and corresponding weights inside the scatterer. 
 
 ### Common scripts for both two methods
-`field_build.m`: Read the scattered field/induced current density at each quadrature point computed by Comsol. \\
+`field_build.m`: Read the scattered field/induced current density at each quadrature point computed by Comsol. \
 `field_from_cart2sph.m`: Convert the field data in the Cartesian coordinate to spherical coordinate. \
 `pm6_NeMo.m`: Calculate electric and magnetic multipole coefficients `aml` and `bml`. \
 `coff.m`: Summation for quadrature. 
