@@ -8,7 +8,7 @@ Two types of approaches for numerical projection are introduced, each suitable f
 
 ## Usage
 ### Scripts for surface integration method
-`generate_sphere_pt.m`: Generate Lebedev quadrature weights and points that are given in both Cartesian and spherical coordinates. \
+`generate_sphere_pt.m`: Generate Lebedev quadrature weights and points that are given in both Cartesian and spherical coordinates.
 
 ### Scripts for volume integration method
 `quad_point52tetra.m`: Get the Gaussian quadrature points and corresponding weights inside the scatterer. 
