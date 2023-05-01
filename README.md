@@ -14,14 +14,14 @@ Two types of approaches for numerical projection are introduced, each suitable f
 `quad_point52tetra.m`: Get the Gaussian quadrature points and corresponding weights inside the scatterer. 
 
 ### Common scripts for both two methods
-`field_build.m`: Read the scattered field/induced current density at each quadrature point computed by Comsol. \
-`field_from_cart2sph.m`: Convert the field data in the Cartesian coordinate to spherical coordinate. \
-`pm6_NeMo.m`: Calculate electric and magnetic multipole coefficients `aml` and `bml`. \
-`coff.m`: Summation for quadrature. 
+1. `field_build.m`: Read the scattered field/induced current density at each quadrature point computed by Comsol.
+2. `field_from_cart2sph.m`: Convert the field data in the Cartesian coordinate to spherical coordinate.
+3. `pm6_NeMo.m`: Calculate electric and magnetic multipole coefficients `aml` and `bml`.
+4. `coff.m`: Summation for quadrature. 
 
 ### Scripts for Mie theory
-`mie_scatter.m`: Compute the multipole coefficients using Mie theory for spherical scatterers. \
-`mie_cross_section.m`: Compute the normalized scattering cross-section based on multipole coefficients. 
+1. `mie_scatter.m`: Compute the multipole coefficients using Mie theory for spherical scatterers.
+2. `mie_cross_section.m`: Compute the normalized scattering cross-section based on multipole coefficients. 
 
 ### Run examples
 Examples of the surface/volume integration method are in `./examples`. You can follow the following steps to run the benchmark:
