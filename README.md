@@ -36,4 +36,4 @@ If you find MDS useful for your research, we would appreciate you citing the fol
 1. W. Guo, Z. Cai, Z. Xiong, W. Chen, and Y. Chen, ''Efficient and accurate numerical-projection of electromagnetic multipoles for arbitrary scattering objects,''
 
 ## Acknowledgements
-The Matlab implementation of Lebedev and Gaussian quadrature is provided by Rob Parrish (Georgia Tech) and John Burkardt (Florida State University), respectively. We appreciate them for the useful numerical tools. 
+The Matlab implementation of Lebedev and Gaussian quadrature are provided by Rob Parrish (Georgia Tech) and John Burkardt (Florida State University), respectively. We appreciate them for the useful numerical tools. 
