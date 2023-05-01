@@ -7,10 +7,10 @@ The open-source Matlab package MDS is the numerical implementation of multipole 
 Two types of approaches for numerical projection are introduced, each suitable for different situations. The first type is surface integration based on the distribution of scattered field outside the scatterer, which is mainly used for the multipole analysis of single structures. The second type is volume integration based on the induced current density inside the scatterer, which is applicable to the building blocks in periodic structures such as metasurfaces and photonic crystals. 
 
 ## Usage
-### Scripts for surface integration method
+### Scripts for surface integration method in `./MDS/Surface_integration_method`
 `generate_sphere_pt.m`: Generate Lebedev quadrature weights and points that are given in both Cartesian and spherical coordinates.
 
-### Scripts for volume integration method
+### Scripts for volume integration method in `./MDS/Volume_integration_method`
 `quad_point52tetra.m`: Get the Gaussian quadrature points and corresponding weights inside the scatterer. 
 
 ### Common scripts for both two methods
