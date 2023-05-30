@@ -33,7 +33,7 @@ Examples of the surface/volume integration method are in `./examples`. You can f
 
 ## Citing
 If you find MDS useful for your research, we would appreciate you citing the following paper:
-1. W. Guo, Z. Cai, Z. Xiong, W. Chen, and Y. Chen, ''Efficient and accurate numerical-projection of electromagnetic multipoles for arbitrary scattering objects,'' in submission and coming soon...
+1. W. Guo, Z. Cai, Z. Xiong, W. Chen, and Y. Chen, ''Efficient and accurate numerical-projection of electromagnetic multipoles for arbitrary scattering objects,'' submitted and coming soon...
 
 ## Acknowledgements
 The Matlab implementation of Lebedev and Gaussian quadrature are provided by Rob Parrish (Georgia Tech) and John Burkardt (Florida State University), respectively. We appreciate them for the useful numerical tools. 
