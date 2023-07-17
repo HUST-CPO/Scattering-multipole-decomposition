@@ -31,5 +31,8 @@ Examples of the surface/volume integration method are in `./examples`. You can f
 3. Run the script `main_mie.m`.
 4. Run the script `numerical_and_mie_plot.m` to visualize the results. 
 
+## Citing
+W. Guo, Z. Cai, Z. Xiong, W. Chen, and Y. Chen, ''Efficient and accurate numerical-projection of electromagnetic multipoles for arbitrary scattering objects,'' under review
+
 ## Acknowledgements
 The Matlab implementation of Lebedev and Gaussian quadrature are provided by Rob Parrish (Georgia Tech) and John Burkardt (Florida State University), respectively. We appreciate them for the useful numerical tools. 
