@@ -2,9 +2,9 @@
 ![multipole_schematic](/assets/img/fig_schematic.png)
 
 ## Overview
-The open-source Matlab package MDS is the numerical implementation of multipole decomposition for scattering objects, based on a combination of full-wave simulation and numerical projection. Lebedev and Gaussian quadrature method are introduced to calculate the integrals in the numerical projection procedure. The program is capable of computing high-order multipoles up to 8th order.
+The open-source Matlab package MDS is a numerical projection program for multipole decomposition. Lebedev and Gaussian quadrature method are introduced to calculate the surface and volume integrals in the numerical projection procedure, respectively. The program is capable of computing high-order electromagnetic multipoles up to 8th order.
 
-Two types of approaches for numerical projection are introduced, each suitable for different situations. The first type is surface integration based on the distribution of scattered field outside the scatterer, which is mainly used for the multipole analysis of single structures. The second type is volume integration based on the induced current density inside the scatterer, which is applicable to the building blocks in periodic structures such as metasurfaces and photonic crystals. 
+Two approaches for numerical projection are included, each suitable for different situations. The first type is surface integration based on the scattered field outside the scatterer, which is used for the multipole analysis of single scatterer. The second type is volume integration based on the induced current density inside the scatterer, which is applicable to the building blocks in periodic structures such as metasurfaces and photonic crystals. 
 
 ## Usage
 The functions for surface/volume integration method are provided in `./MDS`. Codes for Mie theory calculation are also included for reference. 
