@@ -26,7 +26,7 @@ The functions for surface/volume integration method are provided in `./MDS`. Cod
 
 ## Run examples
 Examples of the surface/volume integration method are in `./examples`. You can follow the following steps to run the benchmark:
-1. Run the Comsol file `silicon_sphere.mph` and store each step of the parameter sweep in `./step`
+1. Run the COMSOL file `silicon_sphere.mph` and store each step of the parameter sweep in `./step`
 2. Run the script `main_surface.m`/`main_volume.m`.
 3. Run the script `main_mie.m`.
 4. Run the script `numerical_and_mie_plot.m` to visualize the results. 
