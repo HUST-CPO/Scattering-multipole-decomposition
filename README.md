@@ -15,7 +15,7 @@ The functions for surface/volume integration method are provided in `./MDS`. Cod
 `quad_point52tetra.m`: Get the Gaussian quadrature points and corresponding weights inside the scatterer. 
 
 ### Common functions for both two methods
-1. `field_build.m`: Read the scattered field/induced current density at each quadrature point computed by Comsol.
+1. `field_build.m`: Read the scattered field/induced current density at each quadrature point computed by COMSOL.
 2. `field_from_cart2sph.m`: Convert the field data in the Cartesian coordinate to spherical coordinate.
 3. `pm6_NeMo.m`: Calculate electric and magnetic multipole coefficients `aml` and `bml`.
 4. `coff.m`: Summation for quadrature. 
