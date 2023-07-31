@@ -17,7 +17,7 @@ The functions for surface/volume integration method are provided in `./MDS`. Cod
 ### Common functions for both two methods
 1. `field_build.m`: Read the scattered field/induced current density at each quadrature point computed by COMSOL.
 2. `field_from_cart2sph.m`: Convert the field data in the Cartesian coordinate to spherical coordinate.
-3. `pm6_NeMo.m`: Calculate electric and magnetic multipole coefficients `aml` and `bml`. The expressions of vector spherical harmonics are included in this function. 
+3. `pm6_NeMo.m`: Calculate electric and magnetic multipole coefficients `aml` and `bml`. The expressions of vector spherical harmonics up to 8th order are included in this function. 
 4. `coff.m`: Summation for quadrature. 
 
 ### Functions for Mie theory
