@@ -32,5 +32,5 @@ Examples of the surface/volume integration method are in `./examples`. You can f
 4. Run the script `numerical_and_mie_plot.m` to visualize the results.
 
 ## Acknowledgements
-The Matlab implementation of Lebedev and Gaussian quadrature are provided by Rob Parrish (Georgia Tech) and John Burkardt (Florida State University). We appreciate them for the useful numerical tools. 
+The Matlab implementation of numerical quadrature are provided by Rob Parrish (Georgia Tech) and John Burkardt (Florida State University). We appreciate them for the useful numerical tools. 
 
