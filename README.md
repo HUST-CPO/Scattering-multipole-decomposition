@@ -31,6 +31,3 @@ Examples of the surface/volume integration method are in `./examples`. You can f
 3. Run the script `main_mie.m`.
 4. Run the script `numerical_and_mie_plot.m` to visualize the results.
 
-## Acknowledgements
-The MATLAB implementation of numerical quadrature are provided by Rob Parrish (Georgia Tech) and John Burkardt (Florida State University).
-
