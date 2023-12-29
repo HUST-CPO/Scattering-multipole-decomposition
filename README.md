@@ -6,6 +6,12 @@ The open-source MATLAB package MDS is a numerical projection program for multipo
 
 Two approaches for numerical projection are included, each suitable for different situations. The first type is surface integration based on the scattered field outside the scatterer, which is used for the multipole analysis of single scatterer. The second type is volume integration based on the induced current density inside the scatterer, which is applicable to the building blocks in periodic structures such as metasurfaces and photonic crystals. 
 
+## Citation
+If you find the numerical package useful for your research, please consider citing the following paper:
+
+
+[Wenfei Guo, Zizhe Cai, Zhongfei Xiong, Weijin Chen, and Yuntian Chen, ``Efficient and accurate numerical-projection of electromagnetic multipoles for scattering objects,'' Front. Optoelectron. 16, 48 (2023).](https://doi.org/10.1007/s12200-023-00102-2)
+
 ## Usage
 The functions for surface/volume integration method are provided in `./MDS`. Codes for Mie theory calculation are also included for reference. 
 ### Functions for surface integration method
