@@ -27,7 +27,7 @@ The functions for surface/volume integration method are provided in `./MDS`. Cod
 4. `coff.m`: Summation for quadrature. 
 
 ### Functions for Mie theory
-1. `mie_scatter.m`: Compute the multipole coefficients using Mie theory for spherical scatterers.
+1. `mie_scatter.m`: Compute the multipole coefficients for spherical scatterers using Mie theory.
 2. `mie_cross_section.m`: Compute the normalized scattering cross-section based on multipole coefficients. 
 
 ## Run examples
